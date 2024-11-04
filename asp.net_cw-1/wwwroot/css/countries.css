@@ -1,0 +1,12 @@
+﻿.countries {
+    display: grid;
+    grid-template-columns: 200px minmax(min-content, 200px);
+    gap: 10px
+}
+
+.country {
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    color: white;
+    padding: 10px
+}

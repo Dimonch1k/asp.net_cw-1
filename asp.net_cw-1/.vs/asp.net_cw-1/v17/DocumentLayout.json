@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\pages\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:pages\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\countries.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:wwwroot\\css\\countries.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\pages\\countries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:pages\\countries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE4945-6E3F-4ADE-BB49-79D012ECBEEB}|asp.net_cw-1.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 120,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "countries.css",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\countries.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\countries.css",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\countries.css",
+              "RelativeToolTip": "wwwroot\\css\\countries.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T18:23:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:10:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Countries.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Countries.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Countries.cshtml.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Countries.cshtml.cs",
+              "RelativeToolTip": "Pages\\Countries.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:01:48.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Countries.cshtml",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Countries.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Countries.cshtml",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Countries.cshtml",
+              "RelativeToolTip": "Pages\\Countries.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T18:00:30.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:01:42.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T16:59:59.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

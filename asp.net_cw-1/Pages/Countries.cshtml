@@ -1,0 +1,24 @@
+﻿@page
+@model CountriesModel
+@{
+    ViewData["Title"] = "Countries";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if (Model.Countries != null && Model.Countries.Any())
+{
+    <div class="countries">
+        @foreach (var country in Model.Countries)
+        {
+            <div class="country">
+                <h2>@country.Name</h2>
+                <p>Population: @country.Population</p>
+                <p>Capital: @country.Capital</p>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No countries available.</p>
+}

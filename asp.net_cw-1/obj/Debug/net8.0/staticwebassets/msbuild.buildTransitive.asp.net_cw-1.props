@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\asp.net_cw-1.props" />
+</Project>

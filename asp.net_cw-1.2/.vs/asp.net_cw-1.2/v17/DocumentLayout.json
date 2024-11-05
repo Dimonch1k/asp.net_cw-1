@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\dto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:dto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\dto\\updatetitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:dto\\updatetitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\asp.net_cw-1.2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:asp.net_cw-1.2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|c:\\users\\dmytro\\desktop\\git\\dimonch1krepos\\asp.net_cw-1\\asp.net_cw-1.2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3C0391-E66C-4899-951C-63C274BD2CD4}|asp.net_cw-1.2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Dto\\UpdateAuthorDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UpdateAuthorDto.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Dto\\UpdateAuthorDto.cs",
+              "RelativeToolTip": "Dto\\UpdateAuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:32:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T19:02:34.495Z",
+              "Title": "UpdateTitleDto.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Dto\\UpdateTitleDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UpdateTitleDto.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Dto\\UpdateTitleDto.cs",
+              "RelativeToolTip": "Dto\\UpdateTitleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:32:27.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "asp.net_cw-1.2",
-              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\asp.net_cw-1.2.csproj",
-              "RelativeDocumentMoniker": "asp.net_cw-1.2.csproj",
-              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\asp.net_cw-1.2.csproj",
-              "RelativeToolTip": "asp.net_cw-1.2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-04T19:02:32.915Z",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:46:41.494Z",
               "EditorCaption": ""
             },
             {
@@ -61,22 +75,9 @@
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwvyAAAAAxAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:38:41.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Dimonch1kRepos\\asp.net_cw-1\\asp.net_cw-1.2\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:34:58.543Z",
               "EditorCaption": ""
             }
           ]

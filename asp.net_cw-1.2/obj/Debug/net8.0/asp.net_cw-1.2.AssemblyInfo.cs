@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("asp.net_cw-1.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fee728840df9eb32c2f8ce0693ef08cd652d03c")]
 [assembly: System.Reflection.AssemblyProductAttribute("asp.net_cw-1.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("asp.net_cw-1.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
